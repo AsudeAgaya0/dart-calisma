@@ -8,5 +8,6 @@ void main(){
   String calistigiBolum = "IT";
   int urunMiktari = 50;
   double zamMiktari = 35.5;
+  String basimTarihi = "21/05";
 
 }
