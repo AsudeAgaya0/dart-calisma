@@ -9,6 +9,6 @@ void main(){
   int urunMiktari = 50;
   double zamMiktari = 35.5;
   String basimTarihi = "21/05";
-  //hebele
+
 
 }
