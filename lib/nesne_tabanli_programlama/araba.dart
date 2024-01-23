@@ -6,8 +6,9 @@ class Araba{
   int hiz;
   bool calisiyorMu;
 
-  Araba({required this.renk, required this.hiz, required this.calisiyorMu}); //constructor
+  Araba({required this.renk, required this.hiz, required this.calisiyorMu}); //constructor, init metodu: classtan nesne oluşturulduğu an bu çalışır
   //required ın amacı nesne oluşturulduğunda verilen değerlerin hangi değişken adına ait olduğunu görmek
+
 
   void bilgiAl(){ //nesne oluşturunca contructor sayesinde değişkenlere değerleri atanmış oldu, direkt renk,hız vs. deyince o bilgileri çekti
 
