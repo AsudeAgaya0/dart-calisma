@@ -14,8 +14,6 @@ void main(){
 
   bmw.bilgiAl();
 
-  //print("------------------------------ BMW için");
-
   bmw.renk = "Kırmızı";
   bmw.hiz = 0;
   bmw.calisiyorMu = false;
@@ -31,7 +29,6 @@ void main(){
   bmw.yavasla(50);
   bmw.bilgiAl();
 
-  //print("------------------------------ Şahin için");
 
   /*print("Renk: ${sahin.renk}");
   print("Hız: ${sahin.hiz}");
