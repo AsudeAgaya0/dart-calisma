@@ -2,6 +2,9 @@ import 'package:dart_dersleri/nesne_tabanli_programlama/a_sinifi.dart';
 
 void main(){
 
+  // Static: Bir	değişkenin	veya	metodun,	bulunduğu	sınıftan	(	class )	nesne
+  // oluşturmaya	gerek	kalmadan	erişilmek	istenirse	kullanılır.
+
   var a = ASinifi();
 
   //Standart kullanımı
